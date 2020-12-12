@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "TODO_LIST",
+    "description": "A Simple ToDo List App with sounds.",
     "slug": "TODO_LIST",
     "version": "1.0.0",
     "orientation": "portrait",
